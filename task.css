@@ -1,0 +1,36 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    background-color: rgb(245, 236, 236);
+    line-height: 1.5;
+}
+
+h1{
+    color: rgb(75, 75, 219);
+}
+
+#add{
+    background-color: rgb(37, 37, 145);
+    color: white;
+    border: none;
+    border-radius: 2px;
+}
+
+.task{
+    background-color: white;
+    border-radius: 3px;
+    width: 250px;
+    padding: 0 auto;
+}
+
+
+p{
+    font-size: 9px;
+}
+
+input{
+    width: 200px;
+    font-size: 10px;
+}
